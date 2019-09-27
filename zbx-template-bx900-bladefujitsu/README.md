@@ -11,7 +11,7 @@ Features del template:
 * LLD items Sensors Temperature
 * Discovery Triggers Status all sensors above
 * Graphs by disocvery temperatures and throughput networks interfaces.
-* Screen para TEmperaturas y de Traficos por Chassis (host)
+* Screen para Temperatures and graphs by Chassis (host)
 
 
 TO DO:
