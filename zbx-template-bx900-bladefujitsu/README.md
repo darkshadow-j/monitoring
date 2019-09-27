@@ -1,4 +1,4 @@
-Template_BX900_Blade
+## **Template_BX900_Blade**
 
 Features del template:
 * Template based en SNMP.
