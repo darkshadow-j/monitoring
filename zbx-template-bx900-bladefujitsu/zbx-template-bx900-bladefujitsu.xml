@@ -4,7 +4,7 @@
     <date>2017-10-17T12:41:23Z</date>
     <groups>
         <group>
-            <name>PDC-PRO</name>
+            <name></name>
         </group>
     </groups>
     <templates>
@@ -14,7 +14,7 @@
             <description/>
             <groups>
                 <group>
-                    <name>PDC-PRO</name>
+                    <name></name>
                 </group>
             </groups>
             <applications>
@@ -702,7 +702,7 @@ critical(4)</description>
                     <trigger_prototypes>
                         <trigger_prototype>
                             <expression>{Template BX900 Blade:ifOperStatus[{#SNMPVALUE}].diff(0)}=1</expression>
-                            <name>{Template SNMP Interfaces PDC-PRO:ifOperStatus[{#SNMPVALUE}].diff(0)}=1</name>
+                            <name>{Template SNMP Interfaces:ifOperStatus[{#SNMPVALUE}].diff(0)}=1</name>
                             <url/>
                             <status>0</status>
                             <priority>1</priority>
