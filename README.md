@@ -17,3 +17,7 @@ Features del template:
 
 TO DO:
 * LLD items Power consumption.
+
+References:
+* https://share.zabbix.com
+* https://share.zabbix.com/cat-server-hardware/fujitsu-siemens/blade-bx900
